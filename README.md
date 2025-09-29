@@ -29,11 +29,11 @@ Grupo de número <b>4</b> formado pelos integrantes mencionados abaixo.
 
 <b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=521912&c=14144
 
-### Parte 1
+### Parte 1: Frases de sintomas + extração de informações
 
 [...]
 
-### Parte 2
+### Parte 2: Classificador básico de texto
 
 [...]
 
