@@ -59,9 +59,9 @@ Como se trata de uma versão em formato <strong>Jupyter Notebook</strong>, para 
 
 1. Utilizando o prompt de comando, acesse o diretório `.../s2_fase1_cap1/src` de acordo com o local de armazenamento em seu computador;
 2. Execute a linha de comando `jupyter notebook` para inicializar o <strong>Jupyter Notebook</strong> a partir do diretório acessado;
-3. Após a inicialização, uma nova aba será aberta em seu browser. Serão disponibilizados os seguintes:
-- `parte1`: Possui os desenvolvimentos do item "Parte 1 – Frases de sintomas + extração de informações". Clique no arquivo `script.ipynb` para que seja carregado em outra aba do browser;
-- `parte2`: Possui os desenvolvimentos do item "Parte 2 – Classificador básico de texto". Clique no arquivo `script.ipynb` para que seja carregado em outra aba do browser;
+3. Após a inicialização, uma nova aba será aberta em seu browser. Serão disponibilizados os seguintes diretórios:
+- Diretório `parte1`: Possui os desenvolvimentos do item "Parte 1 – Frases de sintomas + extração de informações". Clique no arquivo `script.ipynb` para que seja carregado em outra aba do browser;
+- Diretório `parte2`: Possui os desenvolvimentos do item "Parte 2 – Classificador básico de texto". Clique no arquivo `script.ipynb` para que seja carregado em outra aba do browser;
 4. Selecione as células que deseja executar e clique no ícone "Run this cell and advance (Shift+Enter)" para executar os processos;
 
 ## 🗃 Histórico de lançamentos
