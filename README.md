@@ -48,6 +48,8 @@ Visando atender à necessidade de uma funcionalidade que desempenhe a função d
 
 A partir desses parâmetros, o script é capaz de retornar um relatório de classificação, apresentando informações como o nível de risco, gerado a partir da execução do modelo **Logistic Regression**, utilizando como base as possíveis frases com sintomas informadas pelo paciente.
 
+Após a execução de diversos testes com as diferentes fontes de dados disponíveis para a funcionalidade, constatou-se que o desempenho se manteve satisfatório mesmo diante de grandes volumes de informações. Além disso, o comportamento da funcionalidade atendeu às expectativas em todos os cenários, estabelecendo corretamente as relações entre os sintomas apresentados pelos pacientes e os respectivos diagnósticos médicos.
+
 É possível visualizar a estrutura do script no formato **Jupyter Notebook** a partir deste [link](https://github.com/RM559712/2s_fase2_cap1/blob/main/src/parte2/script.ipynb).
 
 ### Sobre as funcionalidades
