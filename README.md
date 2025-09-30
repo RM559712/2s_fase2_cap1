@@ -38,6 +38,8 @@ Visando atender à necessidade de uma funcionalidade capaz de retornar um diagn�
 
 A partir desses parâmetros, o script é capaz de identificar os sintomas descritos pelos pacientes e retornar um diagnóstico.
 
+É possível visualizar a estrutura do script no formato **Jupyter Notebook** a partir deste [link](https://github.com/RM559712/2s_fase2_cap1/blob/main/src/parte1/script.ipynb).
+
 ### Parte 2: Classificador básico de texto
 
 Visando atender à necessidade de uma funcionalidade que desempenhe a função de triagem médica, foi desenvolvido um script que executa as seguintes ações:
@@ -45,6 +47,8 @@ Visando atender à necessidade de uma funcionalidade que desempenhe a função d
 - **Leitura de arquivos no formato csv**, contendo diagnósticos médicos rotulados com níveis de risco. A estrutura deve obedecer ao seguinte padrão: `[Sintomas], [Nível de risco]`. Além do arquivo atual, outros poderão ser adicionados ao diretório localizado neste [link](https://github.com/RM559712/2s_fase2_cap1/tree/main/src/parte2/symptoms);
 
 A partir desses parâmetros, o script é capaz de retornar um relatório de classificação, apresentando informações como o nível de risco, gerado a partir da execução do modelo **Logistic Regression**, utilizando como base as possíveis frases com sintomas informadas pelo paciente.
+
+É possível visualizar a estrutura do script no formato **Jupyter Notebook** a partir deste [link](https://github.com/RM559712/2s_fase2_cap1/blob/main/src/parte2/script.ipynb).
 
 ### Sobre as funcionalidades
 
