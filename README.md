@@ -54,7 +54,7 @@ Após a execução de diversos testes com as diferentes fontes de dados disponí
 
 ### Sobre as funcionalidades
 
-É possível assistir um vídeo demonstrando a execução das funcionalidades mencionadas acima através deste [link](https://youtu.be/vLVyCuNEIJE).
+É possível assistir um vídeo demonstrando a execução das funcionalidades mencionadas acima através deste [link](https://youtu.be/vLVyCuNElJE).
 
 ## 📁 Estrutura de pastas
 
