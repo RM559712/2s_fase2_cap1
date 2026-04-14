@@ -82,7 +82,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 Como se trata de uma versão em formato <strong>Jupyter Notebook</strong>, para execução das funcionalidades, os seguintes passos devem ser seguidos:
 
-1. Utilizando o prompt de comando, acesse o diretório `.../s2_fase1_cap1/src` de acordo com o local de armazenamento em seu computador;
+1. Utilizando o prompt de comando, acesse o diretório `.../2s_fase1_cap1/src` de acordo com o local de armazenamento em seu computador;
 2. Execute a linha de comando `jupyter notebook` para inicializar o <strong>Jupyter Notebook</strong> a partir do diretório acessado;
 3. Após a inicialização, uma nova aba será aberta em seu browser. Serão disponibilizados os seguintes diretórios:
 - Diretório `parte1`: Possui os desenvolvimentos do item "Parte 1 – Frases de sintomas + extração de informações". Clique no arquivo `script.ipynb` para que seja carregado em outra aba do browser;
